@@ -1,8 +1,8 @@
 let progress = document.getElementById("progress");
 let ctrlIcon = document.getElementById("ctrlIcon");
 let song = document.getElementById("song");
-let newSong = "../media/Ali Yasini - Nade Ghol (128).mp3"
-let pic = "../media/5.jpg"
+let newSong = "/media/Ali Yasini - Nade Ghol (128).mp3"
+let pic = "/media/5.jpg"
 let prev = document.getElementById("prev");
 let next = document.getElementById("next");
 let img = document.getElementById("img");
